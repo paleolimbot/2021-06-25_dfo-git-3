@@ -55,14 +55,18 @@ After you have committed your change, push it back to GitHub using the green arr
 
 If not, you'll see some kind of error message and you will need to set this up. There are excellent instructions on how to do this in [Chapter 10 of Happy Git With R by Jenny Bryan](https://happygitwithr.com/credential-caching.html#how-to-get-a-pat) but don't be afraid to ask for help getting this to work!
 
-Visit your repository page on GitHub (https://github.com/YOUR_USER_NAME/2021-05-28_dfo-git-pr) and click on *participants.md*. Your changes should be there!
-
 ## Pull Request
 
 The final step is to "pull" the changes back into the main/master branch! To do this, visit <https://github.com/paleolimbot/2021-06-25_dfo-git-3/compare>, find your branch, and click *New Pull Request* (then *Create pull request*).
+
+![](screenshot/branches.png)
 
 ![](screenshot/pull-request.png)
 
 ![](screenshot/pull-request2.png)
 
 You have write access to this repository, so you should be able to merge it yourself! You might have to resolve some merge conflicts because others will be editing the same file.
+
+## What to do after
+
+Two options: delete your branch and start again, or keep your branch up-to-date with changes! We can chat about which one is best for your project.
