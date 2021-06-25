@@ -1,7 +1,7 @@
 
 # 2021-06-25 R Learning and Development Git/GitHub practice
 
-Today's exercise is all about collaborating in the *same* repository using Git branches.
+Today's exercise is all about collaborating in the *same* repository using Git branches. Make sure you send your username on the Teams chat so that I can add you as a collaborator!
 
 - **Clone** a repository (make a local copy of a GitHub repository on your computer so you can edit the files). Do to this you will need to [install Git](https://happygitwithr.com/install-git.html#install-git-windows) if you haven't already and make sure RStudio knows that Git exists on your system.
 - Create a **Branch** to save some work-in-progress in isolation of the `main` branch.
@@ -59,6 +59,10 @@ Visit your repository page on GitHub (https://github.com/YOUR_USER_NAME/2021-05-
 
 ## Pull Request
 
-The final step is to "pull" the changes back into the main/master branch! To do this, visit <https://github.com/paleolimbot/2021-06-25_dfo-git-3/compare>, find your branch, and click *New Pull Request*.
+The final step is to "pull" the changes back into the main/master branch! To do this, visit <https://github.com/paleolimbot/2021-06-25_dfo-git-3/compare>, find your branch, and click *New Pull Request* (then *Create pull request*).
 
 ![](screenshot/pull-request.png)
+
+![](screenshot/pull-request2.png)
+
+You have write access to this repository, so you should be able to merge it yourself! You might have to resolve some merge conflicts because others will be editing the same file.
