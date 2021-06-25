@@ -4,5 +4,8 @@
 Add your name here! I'll start:
 
 Dewey Dunnington
-Hannah Munro  
-Patrick Upson
+patrick-upson
+Stephanie Clay
+Melanie Hardy
+Dewey Dunnington
+Hannah Munro
