@@ -5,6 +5,10 @@ Add your name here! I'll start:
 
 Dewey Dunnington
 Eva Dickson
+Andrea Hilborn
+Devon Warawa
+Remi Daigle
+Stephanie Clay
 Melanie Hardy
 Dewey Dunnington
 Hannah Munro
