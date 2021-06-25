@@ -31,7 +31,11 @@ Paste the value under *Repository URL* and click *Create Project*.
 
 ## Branch
 
+On the *Git* tab, find the purple branching icon (at the top right, next to where it says *main*, which is your current branch name). When you click it you'll get the option to create a new branch. Type your name (in lowercase using hyphens for spaces) as the branch name. We're using this branch name because we need them to be unique for all the participants!
 
+![](screenshot/branch.png)
+
+Click *Create*. Where *main* used to be it should now read your branch name.
 
 ## Commit
 
@@ -55,6 +59,6 @@ Visit your repository page on GitHub (https://github.com/YOUR_USER_NAME/2021-05-
 
 ## Pull Request
 
-The final step is to "pull" the changes back into this repository! To do this, visit your repository page on GitHub (https://github.com/YOUR_USER_NAME/2021-05-28_dfo-git-pr) and click on "contribute", then "Open Pull Request".
+The final step is to "pull" the changes back into the main/master branch! To do this, visit <https://github.com/paleolimbot/2021-06-25_dfo-git-3/compare>, find your branch, and click *New Pull Request*.
 
 ![](screenshot/pull-request.png)
